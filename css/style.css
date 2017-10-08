@@ -1,0 +1,36 @@
+html {
+  padding-top: 20px;
+  background-image: url("../images/1.png");
+}
+
+body {
+  width: 75%;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin: 0 auto;
+  background-color: rgb(203, 203, 212);
+  box-shadow: 10px 10px 10px rgba(75, 72, 72, 0.5);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  color: rgb(98, 108, 96);
+  font-size: 2.2em;
+  padding: 0 0 2px 60px;
+  background-image: url(../images/2.png);
+  background-repeat: no-repeat ;
+  background-position: 20px 11px;
+  margin: 0;
+}
+
+p {
+  padding-left: 10px;
+}
+
+adress {
+  padding-left: 10px;
+}
